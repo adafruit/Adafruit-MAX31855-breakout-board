@@ -6,6 +6,12 @@ Thermocouples are very sensitive, requiring a good amplifier with a cold-compens
 
 [If you need a thermocouple interface that can handle other types of thermocouples, check out our 'Universal' MAX31856 amplifier board which can be configured in the Arduino sketch to interface with just about any kind of thermocouple](https://www.adafruit.com/products/3263)
 
+## License
+
+Adafruit invests time and resources providing this open source design, 
+please support Adafruit and open-source hardware by purchasing 
+products from Adafruit!
+
 All text above must be included in any redistribution
 
 Designed by Limor Fried/Ladyada for Adafruit Industries.
