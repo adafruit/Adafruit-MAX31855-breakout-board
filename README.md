@@ -1,4 +1,4 @@
-# Adafruit MAX31885 Thermocouple Amp breakout
+# Adafruit MAX31855 Thermocouple Amp breakout
 
 <a href="http://www.adafruit.com/products/269"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
 
